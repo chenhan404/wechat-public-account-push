@@ -15,10 +15,10 @@ export const config = {
 
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
-   * [
+   * [wxid_a62cmxu2gb0322
    *  {
    *    // 想要发送的人的名字
-   *    name: "老婆0",
+   *    name: "Eternal",
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "ooxiw6iGKLoNuC35GqjpcvJsEs_s",
    *    // 你想对他发送的模板消息的模板ID
